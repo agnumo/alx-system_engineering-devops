@@ -1,0 +1,2 @@
+Bringing me up to speed with shell basics
+The script prints the absolute path name of the current working directory
