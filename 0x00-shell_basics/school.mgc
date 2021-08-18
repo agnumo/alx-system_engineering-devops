@@ -1,2 +1,2 @@
-0 string SCHOOL schooldata
-!:mime text/plain
+0 string/[WwcCtbT]* SCHOOL schooldata
+!:mime text/plain;charset=UTF-8
