@@ -1,0 +1,1 @@
+This is my ALX-SE project on shell redirections. This README.md shall be updated to describe what each script is doing.
